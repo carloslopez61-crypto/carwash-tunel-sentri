@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "paquete": "Supreme",
+        "tipo": "Chico",
+        "nombre": "Supreme Chico",
+        "precio": 220,
+        "icono": "◆",
+        "descripcion": "Servicio completo para vehículos de tamaño chico.",
+        "detalle": "Lavado completo"
+    },
+    {
+        "id": 2,
+        "paquete": "Supreme",
+        "tipo": "Grande",
+        "nombre": "Supreme Grande",
+        "precio": 250,
+        "icono": "◆",
+        "descripcion": "Servicio completo para vehículos de tamaño grande.",
+        "detalle": "Lavado completo"
+    },
+    {
+        "id": 3,
+        "paquete": "Supreme",
+        "tipo": "Extra Grande",
+        "nombre": "Supreme Extra Grande",
+        "precio": 300,
+        "icono": "◆",
+        "descripcion": "Servicio completo para pick-ups de 4 puertas.",
+        "detalle": "Lavado completo"
+    },
+    {
+        "id": 4,
+        "paquete": "Supreme",
+        "tipo": "Panel",
+        "nombre": "Supreme Panel",
+        "precio": 400,
+        "icono": "◆",
+        "descripcion": "Servicio completo para vehículos tipo panel.",
+        "detalle": "Lavado completo"
+    },
+
+    {
+        "id": 5,
+        "paquete": "Express",
+        "tipo": "Chico",
+        "nombre": "Express Chico",
+        "precio": 190,
+        "icono": "◇",
+        "descripcion": "Lavado exterior para vehículos de tamaño chico.",
+        "detalle": "Lavado exterior"
+    },
+    {
+        "id": 6,
+        "paquete": "Express",
+        "tipo": "Grande",
+        "nombre": "Express Grande",
+        "precio": 220,
+        "icono": "◇",
+        "descripcion": "Lavado exterior para vehículos de tamaño grande.",
+        "detalle": "Lavado exterior"
+    },
+    {
+        "id": 7,
+        "paquete": "Express",
+        "tipo": "Extra Grande",
+        "nombre": "Express Extra Grande",
+        "precio": 250,
+        "icono": "◇",
+        "descripcion": "Lavado exterior para pick-ups de 4 puertas.",
+        "detalle": "Lavado exterior"
+    },
+    {
+        "id": 8,
+        "paquete": "Express",
+        "tipo": "Panel",
+        "nombre": "Express Panel",
+        "precio": 350,
+        "icono": "◇",
+        "descripcion": "Lavado exterior para vehículos tipo panel.",
+        "detalle": "Lavado exterior"
+    },
+
+    {
+        "id": 9,
+        "paquete": "Moto",
+        "tipo": "Moto",
+        "nombre": "Servicio Moto",
+        "precio": 80,
+        "icono": "●",
+        "descripcion": "Servicio especial para motocicletas.",
+        "detalle": "Servicio para moto"
+    }
+]
